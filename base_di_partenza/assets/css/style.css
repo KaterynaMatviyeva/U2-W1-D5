@@ -44,6 +44,12 @@ header div {
 .main-section {
   background-color: #ffc017;
   border-bottom: solid 1px;
+  display: flex;
+  justify-content: space-between;
+}
+.main-wrap {
+  flex: 2;
+  margin-left: 3%;
 }
 .title-section {
   margin-left: 10%;
